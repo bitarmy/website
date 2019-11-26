@@ -1,2 +1,4 @@
 # website
-Static Website
+Official Bitarmy website
+
+Just a good ol' html file
